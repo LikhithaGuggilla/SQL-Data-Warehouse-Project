@@ -38,7 +38,7 @@ Building SQL-based reports to help analyze customer behavior, product performanc
 
 Review the [Data Catalog](https://github.com/LikhithaGuggilla/SQL-Data-Warehouse-Project/blob/main/docs/data_catalog.md)
 
---
+---
 ## Repository Structure
 
 ```
