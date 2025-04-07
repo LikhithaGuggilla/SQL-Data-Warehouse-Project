@@ -76,9 +76,8 @@ SQL-Data-Warehouse-Project/
 - `ddl_silver.sql`
 -`ddl_gold.sql` 
 4. Run stored procedures in order:
-   - `usp_load_bronze_layer.sql`
-   - `usp_transform_silver_layer.sql`
-   - `usp_data_integrity_checks.sql`
+   - `procedure_load_bronze.sql`
+   - `procedure_load_silver.sql`
 5. Run data quality check scripts in `tests`folder:
 - `quality_checks_silver.sql`
 - `quality_checks_gold.sql`
